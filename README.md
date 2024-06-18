@@ -34,6 +34,9 @@ If you have any questions, please open an issue or contact me directly at ashley
 Here is a [walkthrough video](https://drive.google.com/file/d/1zQ2CYOyMvS9RzpOd_WYaKoX9Wl6YaRIT/view?usp=sharing) 
 
 
+## Github:
+(https://github.com/AshleydVon/README)
+
 ## Deployed Live Website:
  (https://ashleydvon.github.io/README/)
 
