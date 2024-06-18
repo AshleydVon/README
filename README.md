@@ -31,9 +31,12 @@ If you have any questions, please open an issue or contact me directly at ashley
 
 
 ## Walkthrough Video demonstrating the functionality of the application.
-
-
 Here is a [walkthrough video](https://drive.google.com/file/d/1zQ2CYOyMvS9RzpOd_WYaKoX9Wl6YaRIT/view?usp=sharing) 
+
+
+## Deployed Live Website:
+ (https://ashleydvon.github.io/README/)
+
 
 | Image | Description |
 | --- | --- |
