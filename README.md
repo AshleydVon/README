@@ -42,6 +42,6 @@ Here is a [walkthrough video](https://drive.google.com/file/d/1zQ2CYOyMvS9RzpOd_
 | --- | --- |
 | ![screenshot1](./assets/Screen%20Shot%202024-06-17%20at%207.15.36%20PM.png) | Starting Application |
 
-| ![screenshot2](./assets/Screen%20Shot%202024-06-17%20at%207.16.31%20PM.png | Entering Prompted Information |
+| ![screenshot2](./assets/Screen%20Shot%202024-06-17%20at%207.16.31%20PM.png) | Entering Prompted Information |
 
-| ![screenshot3](./assets/Screen%20Shot%202024-06-17%20at%207.16.46%20PM.png | End of Application before ReadMe Created |
+| ![screenshot3](./assets/Screen%20Shot%202024-06-17%20at%207.16.46%20PM.png) | End of Application before ReadMe Created |
